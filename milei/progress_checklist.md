@@ -30,5 +30,5 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 18 (29/04 a 05/05)
 - [x] Semana 19 (06/05 a 12/05)
 - [x] Semana 20 (13/05 a 19/05)
-- [ ] Semana 21 (20/05 a 26/05)
+- [x] Semana 21 (20/05 a 26/05)
 - [ ] Semana 22 (27/05 a 02/06)
