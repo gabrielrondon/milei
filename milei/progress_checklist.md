@@ -48,4 +48,4 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 36 (02/09 a 08/09)
 - [x] Semana 37 (09/09 a 15/09)
 - [x] Semana 38 (16/09 a 22/09)
-- [ ] Semana 39 (23/09 a 29/09)
+- [x] Semana 39 (23/09 a 29/09)
