@@ -44,4 +44,4 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 32 (05/08 a 11/08)
 - [x] Semana 33 (12/08 a 18/08)
 - [x] Semana 34 (19/08 a 25/08)
-- [ ] Semana 35 (26/08 a 01/09)
+- [x] Semana 35 (26/08 a 01/09)
