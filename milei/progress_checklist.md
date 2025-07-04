@@ -21,5 +21,5 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 9 (26/02 a 03/03)
 - [x] Semana 10 (04/03 a 10/03)
 - [x] Semana 11 (11/03 a 17/03)
-- [ ] Semana 12 (18/03 a 24/03)
+- [x] Semana 12 (18/03 a 24/03)
 - [ ] Semana 13 (25/03 a 31/03)
