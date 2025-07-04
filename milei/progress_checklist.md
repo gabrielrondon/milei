@@ -58,3 +58,7 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 46 (11/11 a 17/11)
 - [x] Semana 47 (18/11 a 24/11)
 - [x] Semana 48 (25/11 a 01/12)
+- [ ] Semana 49 (02/12 a 08/12)
+- [ ] Semana 50 (09/12 a 15/12)
+- [ ] Semana 51 (16/12 a 22/12)
+- [ ] Semana 52 (23/12 a 29/12)
