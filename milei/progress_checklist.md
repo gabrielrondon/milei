@@ -36,7 +36,7 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 24 (10/06 a 16/06)
 - [x] Semana 25 (17/06 a 23/06)
 - [x] Semana 26 (24/06 a 30/06)
-- [ ] Semana 27 (01/07 a 07/07)
+- [x] Semana 27 (01/07 a 07/07)
 - [ ] Semana 28 (08/07 a 14/07)
 - [ ] Semana 29 (15/07 a 21/07)
 - [ ] Semana 30 (22/07 a 28/07)
