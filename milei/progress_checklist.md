@@ -26,5 +26,5 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 14 (01/04 a 07/04)
 - [x] Semana 15 (08/04 a 14/04)
 - [x] Semana 16 (15/04 a 21/04)
-- [ ] Semana 17 (22/04 a 28/04)
+- [x] Semana 17 (22/04 a 28/04)
 - [ ] Semana 18 (29/04 a 05/05)
