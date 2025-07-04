@@ -11,7 +11,7 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 ## 2024
 
 - [x] Semana 1 (01/01 a 07/01)
-- [ ] Semana 2 (08/01 a 14/01)
+- [x] Semana 2 (08/01 a 14/01)
 - [ ] Semana 3 (15/01 a 21/01)
 - [ ] Semana 4 (22/01 a 28/01)
 - [ ] Semana 5 (29/01 a 04/02)
