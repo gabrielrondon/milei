@@ -40,4 +40,4 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 28 (08/07 a 14/07)
 - [x] Semana 29 (15/07 a 21/07)
 - [x] Semana 30 (22/07 a 28/07)
-- [ ] Semana 31 (29/07 a 04/08)
+- [x] Semana 31 (29/07 a 04/08)
