@@ -62,3 +62,11 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 50 (09/12 a 15/12)
 - [x] Semana 51 (16/12 a 22/12)
 - [x] Semana 52 (23/12 a 29/12)
+
+## 2025
+
+- [ ] Semana 1 (30/12/2024 a 05/01/2025)
+- [ ] Semana 2 (06/01 a 12/01)
+- [ ] Semana 3 (13/01 a 19/01)
+- [ ] Semana 4 (20/01 a 26/01)
+- [ ] Semana 5 (27/01 a 02/02)
