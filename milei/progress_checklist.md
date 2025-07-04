@@ -65,7 +65,7 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 
 ## 2025
 
-- [ ] Semana 1 (30/12/2024 a 05/01/2025)
+- [x] Semana 1 (30/12/2024 a 05/01/2025)
 - [ ] Semana 2 (06/01 a 12/01)
 - [ ] Semana 3 (13/01 a 19/01)
 - [ ] Semana 4 (20/01 a 26/01)
