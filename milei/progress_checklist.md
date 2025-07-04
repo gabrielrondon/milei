@@ -73,4 +73,4 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 6 (03/02 a 09/02)
 - [x] Semana 7 (10/02 a 16/02)
 - [x] Semana 8 (17/02 a 23/02)
-- [ ] Semana 9 (24/02 a 02/03)
+- [x] Semana 9 (24/02 a 02/03)
