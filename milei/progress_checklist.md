@@ -69,4 +69,4 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 2 (06/01 a 12/01)
 - [x] Semana 3 (13/01 a 19/01)
 - [x] Semana 4 (20/01 a 26/01)
-- [ ] Semana 5 (27/01 a 02/02)
+- [x] Semana 5 (27/01 a 02/02)
