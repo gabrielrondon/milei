@@ -88,6 +88,6 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 21 (19/05 a 25/05)
 - [x] Semana 22 (26/05 a 01/06)
 - [x] Semana 23 (02/06 a 08/06)
-- [ ] Semana 24 (09/06 a 15/06)
+- [x] Semana 24 (09/06 a 15/06)
 - [ ] Semana 25 (16/06 a 22/06)
 - [ ] Semana 26 (23/06 a 29/06)
