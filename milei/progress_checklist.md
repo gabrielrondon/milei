@@ -35,4 +35,4 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 23 (03/06 a 09/06)
 - [x] Semana 24 (10/06 a 16/06)
 - [x] Semana 25 (17/06 a 23/06)
-- [ ] Semana 26 (24/06 a 30/06)
+- [x] Semana 26 (24/06 a 30/06)
