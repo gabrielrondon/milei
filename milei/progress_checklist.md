@@ -54,7 +54,7 @@ Este arquivo rastreia as semanas que já foram analisadas e documentadas.
 - [x] Semana 42 (14/10 a 20/10)
 - [x] Semana 43 (21/10 a 27/10)
 - [x] Semana 44 (28/10 a 03/11)
-- [ ] Semana 45 (04/11 a 10/11)
+- [x] Semana 45 (04/11 a 10/11)
 - [ ] Semana 46 (11/11 a 17/11)
 - [ ] Semana 47 (18/11 a 24/11)
 - [ ] Semana 48 (25/11 a 01/12)
